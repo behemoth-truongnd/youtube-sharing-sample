@@ -70,3 +70,4 @@ group :development do
 end
 
 gem "devise"
+gem "yt", "~> 0.32.0"
